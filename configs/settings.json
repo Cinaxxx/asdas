@@ -1,0 +1,34 @@
+{
+  "token": "",
+  "prefix": [".","!","und!","undo!"],
+  "guildID": "796292957241868288",
+  "BotClientID": "890671986735460372",
+  "mongoUrl": "",
+  "owners": ["566699236264116224","949402883441459261","671309600045400104","970354989711118417","918564134927335514"],
+  "botDurum": "ɄЛÐØ 💖 Cinax",
+  "botSes": "1023208396004007936",
+  "registerPerm": "1027666050986283069",
+   
+  "dmMessages": false,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+  "messageCount": 1,
+  "messageCoin": 1,
+  "voiceCount": 1,
+  "voiceCoin": 2,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+
+  "banlimit": 3,
+  "jaillimit": 3,
+  "warnlimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3
+}
